@@ -22,4 +22,6 @@ After the script completes:
 >
 > These skills contain context, patterns, and instructions for working in this repository.
 > They should be consulted as needed throughout future work.
-> For complex tasks add a todo to search the skills for relevant information.
+> For complex tasks add a task to search the skills for relevant information and verification steps.
+
+> ** CRITICAL: Read the SKILLS at when unsure about systems in the codebase. **
