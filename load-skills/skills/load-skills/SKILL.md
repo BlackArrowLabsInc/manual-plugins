@@ -1,7 +1,6 @@
 ---
 name: load-skills
 description: Load skills from origin/terminal-skills branch into a local cache and enforce reading them before any work
-disable-model-invocation: true
 allowed-tools: Bash, Read
 ---
 
